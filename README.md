@@ -13,16 +13,15 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+https://devchatt.herokuapp.com/
+![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/lifedemo.jpeg)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Ankush109/MERN_stack_chatapp.git
 ```
 
 Go to the project directory
@@ -76,8 +75,6 @@ Start the Client
 ![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/searchusers.jpeg)
 
 ### Create Group Chats
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
 
 ### Notifications
 
